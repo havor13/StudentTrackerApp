@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StudentTrackerApp</string>
+    <string name="enter_student">Enter student name</string>
+    <string name="save_student">Save Student</string>
+    <string name="stored_students">Stored Students:</string>
+    <string name="second_screen">Welcome to the second screen!</string>
 </resources>
