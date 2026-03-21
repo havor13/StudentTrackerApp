@@ -40,13 +40,16 @@ Breakdown:
 
 - 8 hrs – Coding and debugging core features
 
-4 hrs – UI design and navigation setup
+- 4 hrs – UI design and navigation setup
 
-3 hrs – Documentation and README.md updates
+- 3 hrs – Documentation and README.md updates
 
-2 hrs – Recording and editing demo video
+- 2 hrs – Recording and editing demo video
 
 ---
+
+## Video demo link
+https://www.loom.com/share/f52ff837d1904e16819cb628f3283867
 
 ## Discussion of Learning Strategies
 I approached this module by breaking tasks into smaller goals and practicing consistently in Android Studio. I relied on official documentation, tutorials, and peer discussions to learn Jetpack Compose and DataStore persistence. Recording the demo video helped me reflect on my process and explain my logic clearly, reinforcing my understanding. I also used incremental testing to ensure each feature worked before moving on to the next.
