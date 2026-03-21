@@ -36,15 +36,17 @@ Total Hours: 20+
 
 Breakdown:
 
-- 5 hrs – Researching Jetpack Compose and DataStore
+- Monday - 5 hrs – Researching Jetpack Compose and DataStore
 
-- 8 hrs – Coding and debugging core features
+- Tuesday - 8 hrs – Coding and debugging core features
 
-- 4 hrs – UI design and navigation setup
+- Wednesday - 4 hrs – UI design and navigation setup
 
-- 3 hrs – Documentation and README.md updates
+- Thursday - 3 hrs – Documentation and README.md updates
 
-- 2 hrs – Recording and editing demo video
+- Friday - 2 hrs – Recording and editing demo video
+  
+- Saturday - 4 hrs - Polishing made througth
 
 ---
 
