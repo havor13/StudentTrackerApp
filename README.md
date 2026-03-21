@@ -31,7 +31,43 @@ This project demonstrates mobile app development concepts including state manage
 
 ---
 
+## Time Log
+Total Hours: 20+
+
+Breakdown:
+
+- 5 hrs – Researching Jetpack Compose and DataStore
+
+- 8 hrs – Coding and debugging core features
+
+4 hrs – UI design and navigation setup
+
+3 hrs – Documentation and README.md updates
+
+2 hrs – Recording and editing demo video
+
+---
+
+## Discussion of Learning Strategies
+I approached this module by breaking tasks into smaller goals and practicing consistently in Android Studio. I relied on official documentation, tutorials, and peer discussions to learn Jetpack Compose and DataStore persistence. Recording the demo video helped me reflect on my process and explain my logic clearly, reinforcing my understanding. I also used incremental testing to ensure each feature worked before moving on to the next.
+
+---
+## Repository Structure
+app/src/main/java/... – Kotlin source code
+
+app/src/main/res/... – UI resources (layouts, themes, drawables)
+
+README.md – Project documentation
+
+build.gradle – Build configuration
+
+.gitignore – Git ignored files
+
+--- 
+
 ## Installation & Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/havor13/StudentTrackerApp.git
+
+   
